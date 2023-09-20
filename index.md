@@ -1,4 +1,4 @@
-# Santigie Sankoh's Blog and Creative Space
+# About
 
 ![Santigie Sankoh](https://media-exp1.licdn.com/dms/image/C4D22AQEhtpdxBoDEHw/feedshare-shrink_800/0/1660780936843?e=2147483647&v=beta&t=aeT6RlPwmLflGoU5g4_J8ZgcNiKnweKClMmSycj-l-Y)
 
