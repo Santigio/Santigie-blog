@@ -1,3 +1,3 @@
-# Welcome to my science space
+# Science 
 
 ## Find all science related blog posts
