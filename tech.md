@@ -1,3 +1,3 @@
-Welcome to my tech space
+# Tech
 
 ## Find all tech related blog posts
