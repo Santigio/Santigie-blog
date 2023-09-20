@@ -1,6 +1,6 @@
 ## Next JS Part 1
 
-> Welcome to our blog on app development with Next.js! In this post, we will provide a brief introduction to Next.js and discuss how to set up your computer for Next.js app development. We will also provide a simple "Hello, World!" example using JavaScript, which is commonly used in Next.js app development.
+> Welcome to my blog on app development with Next.js! In this post, I will provide a brief introduction to Next.js and discuss how to set up your computer for Next.js app development. I will also provide a simple "Hello, World!" example using JavaScript, which is commonly used in Next.js app development.
 
 > Next.js is an open-source web application framework created for building server-rendered React applications. It allows developers to create fast and scalable web applications with ease. Next.js leverages the power of React for building user interfaces and provides server-side rendering and routing capabilities.
 
@@ -32,7 +32,7 @@ In addition to creating simple components like the one above, Next.js offers pow
 
 In our next lesson, we'll delve deeper into Next.js, exploring its capabilities, routing, and advanced features. Stay tuned!
 
-22/01/2023
+20/09/2023
 
 <script src="https://utteranc.es/client.js"
         repo="https://github.com/Santigio/Santigio.github.io"
@@ -42,4 +42,3 @@ In our next lesson, we'll delve deeper into Next.js, exploring its capabilities,
         async>
 </script>
 
-(Note: The content has been changed to focus on Next.js development instead of Flutter.)
