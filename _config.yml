@@ -19,6 +19,10 @@ instagram_username: "africans.coder"
 #########################################################################################
 theme: "minima"
 
+
+collections:
+  posts: # collection for personal blog posts
+    output: true
 rss: rss
 
 kramdown:
