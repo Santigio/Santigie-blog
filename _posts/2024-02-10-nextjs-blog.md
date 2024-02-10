@@ -113,6 +113,6 @@ Iteration: Begin with the basics and keep improving your landing page over time.
 
 ## Example Landing Pages for Inspiration
 
-SaaS Landing Page Example: Consider the structure and well-defined CTA on Stripe's homepage: ! [Stripe] (https://stripe.com/)
-Minimalist Landing Page: Study how negative space and clear messaging works at ! [Super human] (https://superhuman.com/)
-B2B Landing Page: Examine the focus on benefits and lead capture forms on ! [Slack] (https://slack.com/)
+SaaS Landing Page Example: Consider the structure and well-defined CTA on Stripe's homepage https://stripe.com/
+Minimalist Landing Page: Study how negative space and clear messaging works at https://superhuman.com
+B2B Landing Page: Examine the focus on benefits and lead capture forms on (https://slack.com/)
