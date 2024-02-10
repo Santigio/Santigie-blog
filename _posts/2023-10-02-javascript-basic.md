@@ -1,6 +1,6 @@
 ## Next.js Tutorial Part 2
 
-![Next.js Image](https://example.com/nextjs-image.png)
+![Next.js Image](https://miro.medium.com/v2/resize:fit:1358/0*Wkrz5TuOxQs9tXri.png)
 
 > In this tutorial, you will learn about the JavaScript programming language and how it can be used to build web applications with Next.js. You will explore key JavaScript concepts and features, including variables, functions, classes, control structures, and asynchronous programming.
 

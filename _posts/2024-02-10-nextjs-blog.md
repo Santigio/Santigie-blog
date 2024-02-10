@@ -1,5 +1,7 @@
 ## Crafting a High-Impact Landing Page with Next.js and Tailwind CSS
 
+![Next.js Image](https://medevel.com/content/images/2023/07/oekwe.png)
+
 In this guide, we'll outline how to construct an effective and polished landing page using Next.js, a robust React framework, and the utility-first approach of Tailwind CSS.
 
 Prerequisites
